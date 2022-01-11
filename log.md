@@ -17,3 +17,8 @@
 **Thoughts:** WOW, this is AMAZINGGGGGGGGGGGGGGGGGGGGG
 
 **Link to work:** https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-html-and-css
+
+### Day 4: January 11, 2022.
+**Today's Progress**: Started with Flexbox and made some changes.
+**Thought:** Flexbox doesnt like me lol
+**Link to work**:http://127.0.0.1:5500/odin-recipes/index.html
